@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietheuwio.ice-9.top/sitemap.xml
